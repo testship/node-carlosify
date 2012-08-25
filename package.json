@@ -1,0 +1,33 @@
+{
+  "author": "Carlos Rodriguez <carlos@s8f.org> (http://s8f.org/)",
+  "name": "carlosify",
+  "description": "\"Carlosifies\" a directory into one of his new node modules",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlos8f/node-carlosify.git"
+  },
+  "homepage": "https://github.com/carlos8f/node-carlosify",
+  "keywords": [
+    "scaffolding",
+    "carlos8f",
+    "boilerplate",
+    "productivity",
+    "bacon"
+  ],
+  "bin": "./bin/carlosify.js",
+  "dependencies": {
+    "hardhat": "~0.0.7",
+    "async": "~0.1.22"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/carlos8f/node-carlosify/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
