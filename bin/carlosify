@@ -13,6 +13,7 @@ if (!process.argv[2]) process.argv[2] = '.';
 
 program
   .version(version)
+  .usage('<dir>')
 
 program
   .command('*')
