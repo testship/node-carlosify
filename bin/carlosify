@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 var hardhat = require('hardhat')
-  , async = require('async')
   , init = require('init-package-json')
   , path = require('path')
   , program = require('commander')
