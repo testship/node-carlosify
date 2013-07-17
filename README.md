@@ -3,4 +3,4 @@ carlosify
 
 "Carlosifies" a directory into one of his new node modules
 
-[![build status](https://secure.travis-ci.org/carlos8f/node-carlosify)](http://travis-ci.org/carlos8f/node-carlosify)
+[![NPM](https://nodei.co/npm/carlosify.png?downloads=true)](https://nodei.co/npm/carlosify/)

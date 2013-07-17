@@ -4,4 +4,6 @@
 
 {{travis_badge}}
 
+{{npm_badge}}
+
 {{footer}}
